@@ -33,6 +33,7 @@
             }
         }
     }
+    
     console.log(arr);
 </script>
 </body>
