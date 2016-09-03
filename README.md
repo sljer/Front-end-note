@@ -1,2 +1,2 @@
-# js-note
-Javascript笔记
+# Front-end-note
+前端学习笔记
